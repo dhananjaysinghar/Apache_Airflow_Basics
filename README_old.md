@@ -18,7 +18,7 @@ Watch the full tutorial on YouTube: [Airflow Full Course](https://youtu.be/Iiczx
 
 ---
 
-## Course Structure
+## Project Structure
 
 ```
 ├── docker-compose.yaml      # Docker Compose setup for Airflow
