@@ -1,3 +1,7 @@
+
+## Project Structure
+
+```
 ├── docker-compose.yaml      # Docker Compose setup for Airflow
 ├── main.py                  # Entry point or utility script
 ├── pyproject.toml           # Python project configuration
@@ -10,3 +14,4 @@
 │   └── dag_orchestrate_parent.py
 ├── logs/                    # Airflow logs
 ├── plugins/                 # Custom Airflow plugins
+```
