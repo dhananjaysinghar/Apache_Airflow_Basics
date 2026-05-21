@@ -1,10 +1,5 @@
-# Airflow Full Course
 
-Welcome to the **Airflow Full Course**. This repository provides a hands-on introduction to Apache Airflow, covering core concepts, DAG authoring, scheduling, operators, XComs, branching, asset dependencies, and orchestration. The examples are designed for both beginners and intermediate users who want to deepen their understanding of Airflow's workflow management capabilities.
-
----
-
-## YouTube Tutorial
+## YouTube Tutorial for learning
 Watch the full tutorial on YouTube: [Airflow Full Course](https://youtu.be/IiczxlbQb8s?si=agvPR5GsolXj2OtF)
 
 ---
@@ -138,25 +133,12 @@ Airflow logs are stored in the `logs/` directory. You can inspect task logs here
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new examples.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## References
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
 - [Airflow Docker Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
 
 ---
-
-Happy learning and automating with Airflow!
+## Python virtual env creation details.
 
 pip install uv        
 uv init
